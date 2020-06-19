@@ -1,37 +1,120 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/aliemami94/aemamik.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	<head>
 
-### Markdown
+<style>
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+</style>
+		<title>Ali Emami K.</title>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	</head>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+	<body background="solid1.jpg" ;    background-repeat: no-repeat;    background-attachment: fixed >
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<div class="center">
 
-**Bold** and _Italic_ and `Code` text
+		<font size="4">
+		<hr/>
+	
+		<p align="center">
 
-[Link](url) and ![Image](src)
-```
+			<a href="http://physics.sharif.ir/~ali.emami/">Home</a>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### Jekyll Themes
+			<a href="http://physics.sharif.ir/~ali.emami/Research.htm">Research</a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aliemami94/aemamik.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### Support or Contact
+			<a href="http://physics.sharif.ir/~ali.emami/Teaching.htm">Teaching</a>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+			<!-- <a href="http://physics.sharif.ir/~ali.emami/About.htm">About</a> -->
+			</p>
+
+		<hr/>
+
+
+		<br/>
+
+		<br/>
+		
+
+						<!-- This is Home -->
+
+	
+		<img align="right" src="mm.jpg"  width="154px" height="220px"  border="0"/> <br/>
+		</p>
+		<!---- <img align="right" src="FrontPage_Banner.gif"  width="154px" height="220px"  border="0"/> <br/> -->
+		<p align="left">
+			<big><big> Ali Emami, M.Sc. </big></big>
+		</p>
+		<p align="left">
+
+		<sub> Department of Physics<br>
+
+		Sharif University of Technology</br></sub>
+
+		</p>
+
+
+
+		
+<p>   <ins>  E-mail:</ins></p>
+
+		<ul>
+
+		 <li><i>  ali.emami.app@gmail.com</i></li>
+		
+</ul>
+
+
+		
+
+		<p><ins>Education:</ins></p>
+
+
+		<ul>
+
+		 <li>B.Sc. Physics, Esfahan university, esfahan, Iran, 2016. </li>
+
+		 <li>M.Sc. Physics, Sharif university of technology, Tehran, Iran, 2018.
+		<br>Thesis: Quantum Phase Transition with Machine Learning 
+ 
+		<br>(Supervisor: <a href="http://sharif.edu/~langari/" target="_Blank">Prof.Langari</a>)</br></li>
+		
+</ul>
+
+
+		
+		
+		<p><ins>Research Interests:</ins><p>
+
+		
+<ul>
+
+		<li>Condensed Matter Theory</li>
+		<li>Quantum Many-Body Physics</li>
+		<li>Quantum Statistical Physics</li>
+		<li>Computational Physics </li>
+		<li>Neural Network based Machine Learning </li>
+		</ul>
+
+
+		</p>
+
+
+</div>
+</font>
+
+	</body>
+
+</html>
